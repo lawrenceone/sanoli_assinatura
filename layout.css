@@ -1,0 +1,36 @@
+lable {
+  text-align:left;
+  width:130px;
+  display:block;
+  float:left;
+  clear:right;
+  font-size:15;
+}
+
+.form-uname {
+    font-family: sans-serif;
+	background: #222222;
+	color: rgb(204, 204, 204);
+	padding-top: 20px;
+	margin: auto;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    text-shadow: 2px 2px 2px;
+}
+
+.form-sub {
+    background: #1d1d1d;
+}
+
+button:hover {
+    background-color: rgba(196, 38, 38, 0.87); /* Green */
+    color: white;
+}
+
+button{
+    height: 25px;
+    position:absolute;
+    transition: .5s ease;
+    top: 10rem;
+    left: 24rem;
+}
